@@ -1,8 +1,0 @@
-## Predict survival on the Titanic Dataset
-
-
-| Algorithm        | KNN           | Perceptron  | MLP  |
-| ------------- |:-------------:|:-----:|:---:|
-| Accuracy | 66.98% | 74.40% | 96.17% |
-
-[^titanic_dataset]: <a href='https://www.kaggle.com/c/titanic/data'>Titanic Dataset</a>
