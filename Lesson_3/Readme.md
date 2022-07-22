@@ -38,5 +38,5 @@ For example, the array [1,2,4,6,7] is sorted. But the array [8,5,4,1,6,7] is not
 Write a program that receives the number n from the user. Then draw a striped snake of length n. </br>
 For example: </br>
 n = 9 </br>
-*#*#*#*#* </br>
+@#@#@#@#@ </br>
 
