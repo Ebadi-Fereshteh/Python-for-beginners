@@ -1,3 +1,10 @@
+## Learning goals:
+  * Getting input from the user
+  * Use operators
+  * Use if and while
+  
+## Exercise programs:
+
 ### Calculator.py
 
 A simple calculator program (converting radians to degrees for trigonometric functions)
