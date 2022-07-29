@@ -3,6 +3,7 @@
 * use functions
 * changing the color of print texts
 * use enumerate
+* use pyfiglet
 ________________________________________________
 
 ## Exercise programs:
