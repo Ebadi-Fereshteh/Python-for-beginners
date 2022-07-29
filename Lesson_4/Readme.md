@@ -23,12 +23,12 @@ Example output:
 <img src="quadratic_equation.png" />
 __________________________________________________
 
-### 3.multiplication_table.py
+### 3.Multiplication_table.py
 Write a function that receiveing m and n as parameters, prints multiplication table with m x n dimensions.
 
 Example output:
 
-<img src="multiplication_table.png" />
+<img src="Multiplication_table.png" />
 _____________________________________________________
      
 ### 4.count_words.py
