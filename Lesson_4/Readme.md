@@ -66,6 +66,14 @@ Write a program that receives two numbers from the user and calculates least com
 Example output:
 
 <img src="lcm_calculate.png"/>
+_____________________________________________________________
+
+8.pyfiglet_test.py
+The Pyfiglet module is a Python module that comes with many functions, and we can use these functions in a Python program to create fancy texts with large fonts & sizes in the output. 
+
+Example output:
+
+<img src="pyfiglet_test.png" />
 
 
 
