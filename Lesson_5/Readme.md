@@ -38,5 +38,5 @@ __________________________________________________________________________
 
 Example output:
 
-turtleDraw.gif
+![Alt Text]([(https://github.com/Ebadi-Fereshteh/Python-for-beginners/edit/main/Lesson_5/turtleDraw.gif)])
 
