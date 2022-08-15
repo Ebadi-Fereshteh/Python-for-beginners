@@ -1,8 +1,8 @@
 
 ### Learning goals:
 * More practice with arrays and functions
-* Use colorama Lib and change Text and background color in terminal
-* Use Timer and calculate duration
+* Use the colorama Lib and change the color of the text and background in the terminal
+* Use the timer and calculating the duration
 * Turtle Lib
 
 ---------------------------------------------------------------------------
@@ -21,11 +21,13 @@ Example output:
 -----------------------------------------------------------------------------
 
 ### 2.tictactoe.py
-implement the tictactoe Game with this properties:
-+ have win and equals conditionals for players
-+ the user can be select from menu: play Vs computer or other player
-+ show each player with deference color
-+ print duration play time after end the game
+
+]mplement your tic-tac-toe Game with the following features:
+
++ Have win and equals conditions for players
++ The user can choose from the menu: play Vs computer or other player
++ Displaying the pieces of two players with two different colors (using the desired library)
++ Print the elapsed time after completing the game
 
 
 Example output:
