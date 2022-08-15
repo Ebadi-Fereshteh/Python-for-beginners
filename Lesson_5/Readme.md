@@ -38,6 +38,6 @@ __________________________________________________________________________
 
 Example output:
 
-[![Watch the video](https://github.com/Ebadi-Fereshteh/Python-for-beginners/blob/main/Lesson_5/turtle_demo.mp4)
+<img src="turtleDraw.gif" />
 
 
