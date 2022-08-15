@@ -62,11 +62,6 @@ def check_win(p):
         result_diagonal = sum(result_d, axis=0)
         result_equal = sum(sum(equal_game))
 
-        # print('r1= ',result_cols)
-        # print('r2= ',result_rows)
-        # print('r3= ',result_diagonal)
-        # print('r4= ',result_equal)
-
         if (3 in result_cols or 3 in result_rows or 3 in result_diagonal ):
                 print('player ',p,' win!')
                 end_time = datetime.now()
