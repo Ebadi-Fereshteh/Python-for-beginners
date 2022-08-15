@@ -38,6 +38,6 @@ __________________________________________________________________________
 
 Example output:
 
-<img src="turtleDraw.gif" />
+<img src="turtleDraw.gif"  />
 
 
